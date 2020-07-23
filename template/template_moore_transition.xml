@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transition-table type="moore">
+    <!-- <state value="00" output="0">
+        <input value="0">01</input>
+        <input value="1">00</input>
+    </state> -->
+</transition-table>

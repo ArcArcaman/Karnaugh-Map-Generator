@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<design-requirements>
+    <variables>
+        <states>
+            <state>Y1</state>
+            <state>Y2</state>    
+        </states>
+        <inputs>
+            <input>X</input>
+        </inputs>
+        <outputs>
+            <output>Z</output>
+        </outputs>
+    </variables>
+
+    <flip-flop>
+        <Y1>JKFF</Y1>
+        <Y2>JKFF</Y2>
+    </flip-flop>
+</design-requirements>

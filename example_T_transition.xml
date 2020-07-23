@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transition-table type="moore">
+    <state value="00" output="0">
+        <input value="0">00</input>
+        <input value="1">01</input>
+    </state>
+    <state value="01" output="0">
+        <input value="0">01</input>
+        <input value="1">10</input>
+    </state>
+    <state value="11" output="1">
+        <input value="0">11</input>
+        <input value="1">00</input>
+    </state>
+    <state value="10" output="0">
+        <input value="0">10</input>
+        <input value="1">11</input>
+    </state>
+</transition-table>

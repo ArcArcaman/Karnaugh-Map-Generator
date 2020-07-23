@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<design-requirements>
+    <variables>
+        <states>
+            <!--<state>S1</state>-->    
+        </states>
+        <inputs>
+            <!-- <input>X1</input> -->
+        </inputs>
+        <outputs>
+            <!-- <output>Y1</output> -->
+        </outputs>
+    </variables>
+
+    <flip-flop>
+        <!-- <S1>JKFF</S1> -->
+    </flip-flop>
+</design-requirements>

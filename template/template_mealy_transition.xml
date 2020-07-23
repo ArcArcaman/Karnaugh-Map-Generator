@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transition-table type="mealy">
+    <!-- <state value="00">
+        <input value="0" output="0">01</input>
+        <input value="1" output="1">00</input>
+    </state> -->
+</transition-table>
